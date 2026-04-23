@@ -1,5 +1,5 @@
 # CH32V003 Based Dev Board
-![board](./assets/board_img.png)
+[![zine](./assets/zine_.png)](./assets/zine_doc.pdf)
 ## What is this?
 This is a low cost CH32V003 powered development board based on  the seeed studio XIAO.
 ## Why did I make it?
