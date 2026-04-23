@@ -4,6 +4,18 @@
 This is a low cost CH32V003 powered development board based on  the seeed studio XIAO.
 ## Why did I make it?
 I recently began building freeform wire sculptures using the CH32V003 for its low cost and sufficient capabilities, but soldering straight to the chip wasn't elegant. I wanted something like the seeed studio XIAO, but cheaper. Each board costs **less than $1**
+# Features
+- 32-bit RISC-V MCU @ 48MHZ
+- 2KB SRAM + 16KB Flash
+- Selectable 3.3v or 5v logic level
+- Embedded SK6812 RGB LED
+- 11 GPIO
+- 1x USART
+- 1x SPI
+- 1x I2C
+- 4x 10-bit Analog Input
+- 1-wire Serial Debug Interface
+
 ## Bill of Materials
 | Part | Qty (per board) | Purchase Link | Price (@ 50 units) | 
 | ---- | --------------- | ------------- | ------------------ |
