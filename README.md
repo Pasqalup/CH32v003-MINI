@@ -15,7 +15,7 @@ I recently began building freeform wire sculptures using the CH32V003 for its lo
 - 1x I2C
 - 4x 10-bit Analog Input
 - 1-wire Serial Debug Interface
-
+#### Does **NOT** support **USB Programming**
 ## Bill of Materials
 | Part | Qty (per board) | Purchase Link | Price (@ 50 units) | 
 | ---- | --------------- | ------------- | ------------------ |
